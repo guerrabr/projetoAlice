@@ -15,7 +15,7 @@ let availableQuestions = []
 let questions = [
     {
         question: 'Ácido etanóico e metanoato de metila são isômeros de:',
-        image: '/img/preto.png',
+        image: 'img/preto.png',
         choice1:'Função',
         choice2:'Cadeia',
         choice3: 'Posição',
@@ -24,7 +24,7 @@ let questions = [
     },
     {
         question: 'Qual o tipo de isomeria existente entre as estruturas abaixo?',
-        image: '/img/2.jpg',
+        image: 'img/2.jpg',
         choice1:'Função',
         choice2:'Cadeia',
         choice3: 'Posição',
@@ -33,7 +33,7 @@ let questions = [
     },
     {
         question: 'As estruturas abaixo possuem diferença em seus radicais que caracterizam serem isômeros de:',
-        image: '/img/3.jpg',
+        image: 'img/3.jpg',
         choice1:'Função',
         choice2:'Cadeia',
         choice3: 'Posição',
@@ -42,7 +42,7 @@ let questions = [
     },
     {
         question: 'Os dois compostos abaixo são um par de isômeros:',
-        image: '/img/4.jpg',
+        image: 'img/4.jpg',
         choice1:'Cis – Trans',
         choice2:'E – Z',
         choice3: 'D – L',
@@ -51,7 +51,7 @@ let questions = [
     },
     {
         question: 'Qual o nome do composto abaixo? ',
-        image: '/img/5.jpg',
+        image: 'img/5.jpg',
         choice1:'Z-3 metil penteno-2',
         choice2:'E-3 metil penteno-2',
         choice3: 'Cis-3 metil penteno-2;',
@@ -60,7 +60,7 @@ let questions = [
     },
     {
         question: 'Quantos Carbonos assimétricos e isômeros ópticos ativos a figura abaixo possui?',
-        image: '/img/6.jpg',
+        image: 'img/6.jpg',
         choice1:'3 e 8',
         choice2:'4 e 16',
         choice3:'2 e 4',
@@ -69,7 +69,7 @@ let questions = [
     },
     {
         question: 'Quantos isômeros ópticos ativos e inativos a estrutura abaixo possui?',
-        image: '/img/7.jpg',
+        image: 'img/7.jpg',
         choice1:'2 e 1',
         choice2:'2 e 2',
         choice3:'4 e 4',
@@ -78,7 +78,7 @@ let questions = [
     },
     {
         question: 'Qual o tipo de isomeria mostrado abaixo? ',
-        image: '/img/8.jpg',
+        image: 'img/8.jpg',
         choice1:'Tautomeria',
         choice2:'Metameria',
         choice3:'Cis – Trans',
@@ -87,7 +87,7 @@ let questions = [
     },
     {
         question: 'Marque a alternativa em que os compostos apresentam isomeria espacial:',
-        image: '/img/9.png',
+        image: 'img/9.png',
         choice1:'I e II',
         choice2:'II e III',
         choice3:'I e IV',
@@ -96,7 +96,7 @@ let questions = [
     },
     {
         question: 'A formula C4H8 possui alguns isômeros. A sequência correta de cima para baixo é:',
-        image: '/img/10.jpg',
+        image: 'img/10.jpg',
         choice1:'1,2,3,4',
         choice2:'2,1,4,3',
         choice3:'1,3,2,4',
@@ -105,7 +105,7 @@ let questions = [
     },
     {
         question: 'O par de compostos abaixo possui a isomeria do tipo:',
-        image: '/img/11.jpg',
+        image: 'img/11.jpg',
         choice1:'Tautomeria',
         choice2:'Metameria',
         choice3:'Cadeia',
@@ -114,7 +114,7 @@ let questions = [
     },
     {
         question: 'Quantos isômeros estruturais e geométricos são previstos com a formula C3H5Cl?',
-        image: '/img/preto.png',
+        image: 'img/preto.png',
         choice1:'2',
         choice2:'5',
         choice3:'3',
@@ -123,7 +123,7 @@ let questions = [
     },
     {
         question: 'A substituição de um H por um etil em um C secundário do butano resulta em um isômero do:',
-        image: '/img/preto.png',
+        image: 'img/preto.png',
         choice1:'2-metilbutano',
         choice2:'2-metilpentano',
         choice3:'3-metilpentano',
@@ -132,7 +132,7 @@ let questions = [
     },
     {
         question: 'Em relação as substâncias I e II assinale a alternativa correta?',
-        image: '/img/14.jpg',
+        image: 'img/14.jpg',
         choice1:'I e II tem carbonos quirais',
         choice2:'I e II são isômeros de função',
         choice3:'I e II podem formar ligações de hidrogênio; ',
@@ -141,7 +141,7 @@ let questions = [
     },
     {
         question: 'Isômeros são compostos:',
-        image: '/img/preto.png',
+        image: 'img/preto.png',
         choice1:'De mesma formula molecular e estrutural;',
         choice2:'De mesma formula estrutural e molecular diferentes; ',
         choice3:'De mesma formula molecular e estrutural diferentes; ',
